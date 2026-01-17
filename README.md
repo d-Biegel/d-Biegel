@@ -13,7 +13,7 @@
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
+<!-- this is a comment -->
 ## ABOUT ME
 
 Software developer with interests in **mainframe legacy systems** and **modern game development**. B.S. Interactive Media & Game Design from SUNY Polytechnic (Summa Cum Laude, 3.96 GPA). 
