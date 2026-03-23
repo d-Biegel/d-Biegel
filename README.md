@@ -7,9 +7,9 @@
 ║  ██║  ██║██╔══██║██║╚██╗██║    ██╔══██╗██║██╔══╝  ██║   ██║██╔══╝  ██║    ║ 
 ║  ██████╔╝██║  ██║██║ ╚████║    ██████╔╝██║███████╗╚██████╔╝███████╗███████╗
 ║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
-║                                                                           ║
-║  USER: D-BIEGEL                          STATUS: ONLINE                   ║
-║  LOCATION: MAINFRAME -> MODERN           SESSION: ACTIVE                  ║
+║                        ISPF primary option menu                           ║
+║  USERID   : D-BIEGEL     SYSTEMID : TK5R             TIME     : 22:27     ║
+║  TERMINAL : 3277         PANEL    : ISP@PRIM         PROC     : ISPLOGON  ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -18,12 +18,12 @@
 
 Software developer with interests in **mainframe legacy systems** and **modern game development**. B.S. Interactive Media & Game Design from SUNY Polytechnic (Summa Cum Laude, 3.96 GPA). 
 
-- 💾 Exploring **COBOL, CICS, DB2 & z/OS**
-- 🖥️ **3270 terminals, ISPF & JCL**
+- 💾 Exploring **COBOL, CICS, DB2, MVS 3.8, z/OS, 3270 terminals, VSAM, ISPF & JCL**
 - 🎮 Game dev with **Unity & C#**
 
+I recently got my IBM Z Explore Mainframe Basics and Mainframe Advanced Certifications, check them out on <a href="https://www.credly.com/users/daniel-biegel/badges#credly">credly</a>! 
 
-## EDUCATION & CREDENTIALS
+## EDUCATION
 
 ```
 ════════════════════════════════════════════════════════════════════
@@ -64,14 +64,14 @@ Software developer with interests in **mainframe legacy systems** and **modern g
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-## SCHOOL PROJECTS
-
-**Digital Board Game Adaptation**  
-Unity/C# collaborative project. Programmed combat systems, raiding mechanics, inventory management. Agile methodology with weekly Scrum meetings.
-
-
-**Grocery Store System Redesign**  
-Complete systems analysis and design. Created stakeholder registers, ERDs, domain models, activity diagrams, use cases, and system vision documents.
+<!-- ## SCHOOL PROJECTS -->
+<!--  -->
+<!-- **Digital Board Game Adaptation**   -->
+<!-- Unity/C# collaborative project. Programmed combat systems, raiding mechanics, inventory management. Agile methodology with weekly Scrum meetings. -->
+<!--  -->
+<!--  -->
+<!-- **Grocery Store System Redesign**   -->
+<!-- Complete systems analysis and design. Created stakeholder registers, ERDs, domain models, activity diagrams, use cases, and system vision documents. -->
 
 
 ## STATISTICS
